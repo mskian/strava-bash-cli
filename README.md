@@ -1,5 +1,7 @@
 # Strava CLI
 
+[![bash-test](https://github.com/mskian/strava-bash-cli/actions/workflows/test.yml/badge.svg)](https://github.com/mskian/strava-bash-cli/actions/workflows/test.yml)  
+
 Bash Shell Script to Upload GPX file on your Strava Profile Activity  
 
 ## Requirements
